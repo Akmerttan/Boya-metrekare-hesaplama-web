@@ -1,0 +1,6 @@
+{
+  "name": "Boyahane Metrekare Hesaplayici",
+  "description": "Boyahaneler icin gelen islerin m2 hesabi, birim fiyatlandirmasi, pdf raporlama ve detayli arsiv takip modulu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
